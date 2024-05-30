@@ -1,0 +1,35 @@
+font-size = 12
+
+# font-family = "JetBrainsMono Nerd Font"
+# font-style = "Medium"
+
+font-family = "Monaspace Argon SemiWide"
+font-style = "SemiWide Regular"
+
+# font-family = "Mx437ToshibaSat9x14"
+# font-style = "Regular"
+
+# font-family = "FiraCode Nerd Font"
+# font-style = "Medium"
+
+# font-family = "IosevkaTerm Nerd Font"
+# font-style = "Medium"
+
+# font-family = "Hasklug Nerd Font"
+# font-style = "Medium"
+
+# font-family = "MonaspiceAr NF"
+# font-style = "Medium"
+
+# font-family ="Source Code Pro"
+# font-style = "Medium"
+
+# font-family = "TempleOS"
+# font-style = "Regular"
+
+theme = ""
+
+cursor-style = block
+confirm-close-surface = false
+
+gtk-titlebar = false
