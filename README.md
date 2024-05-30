@@ -30,9 +30,14 @@ To check if it installed correctly your can.
 fc-list | grep -i "templeos_font"
 ```
 
-Pull the dotfiles from this repo (preferably with ssh) <code>git clone git@github.com:Landixbtw/dotfiles.git</code>
-or via https <code>git clone https://github.com/Landixbtw/dotfiles.git</code>.
-into your root directory. 
+Pull the dotfiles from this repo (preferably with ssh) into your root directory
+```sh
+git clone git@github.com:Landixbtw/dotfiles.git ~/dotfiles
+```
+or via https 
+```sh
+git clone https://github.com/Landixbtw/dotfiles.git ~/dotfiles
+```
 
 Navigate there
 ```sh
@@ -42,4 +47,4 @@ In the root of the dotfiles directory do.
 ```sh 
 stow .
 ```
-And let stow do its thing,
+And let stow do its thing.
