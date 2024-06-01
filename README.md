@@ -3,10 +3,14 @@
 All my dotfiles managed with stow.
 
 ## DEPENDENCIES
-Download git and stow
+Download git, stow all the nerd-fonts, some stuff for ghostty, nvim and the github-cli to authenticate your github account for private repos.
 
 ```sh
 sudo pacman -S git stow nerd-fonts zig gtk4 libadwaita fzf github-cli
+```
+Oldschool pc fonts provides the [ToshibaSat9x14](https://int10h.org/oldschool-pc-fonts/fontlist/?2#toshiba) Font. And a lot of other old school fonts.
+```sh
+yay -S oldschool-pc-fonts
 ```
 For the Terminal is use [ghostty](https://github.com/mitchellh/ghostty).
 Follow the build instructions for compiling a release build for daily use.
@@ -16,7 +20,7 @@ To get all fonts, that listed in ghostty/config
 You need to download this.
 <code>https://github.com/githubnext/monaspace/releases/download/v1.101/monaspace-v1.101.zip</code>
 
-And this  
+And this 
 <code>https://github.com/rendello/templeos_font/blob/master/templeos_font.ttf</code>  
 Move this into the right directory, and update the font cache.
 ```sh
