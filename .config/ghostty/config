@@ -6,8 +6,8 @@ font-size = 12
 # font-family = "Monaspace Argon SemiWide"
 # font-style = "SemiWide Regular"
 
-font-family = "Mx437ToshibaSat9x14"
-font-style = "Regular"
+# font-family = "Mx437ToshibaSat9x14"
+# font-style = "Regular"
 
 # font-family = "FiraCode Nerd Font"
 # font-style = "Medium"
@@ -15,8 +15,8 @@ font-style = "Regular"
 # font-family = "IosevkaTerm Nerd Font"
 # font-style = "Medium"
 
-# font-family = "Hasklug Nerd Font"
-# font-style = "Medium"
+font-family = "Hasklug Nerd Font"
+font-style = "Medium"
 
 # font-family = "MonaspiceAr NF"
 # font-style = "Medium"
@@ -33,3 +33,5 @@ cursor-style = block
 confirm-close-surface = false
 
 gtk-titlebar = false
+
+background-opacity = 1

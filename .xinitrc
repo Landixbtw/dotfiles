@@ -1,4 +1,3 @@
-#!/bin/sh
 
 ./dwm-build/dwm/battery_status.sh &
 
