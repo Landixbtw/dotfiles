@@ -1,0 +1,862 @@
+{
+  "fcf3d1e8-c855-4532-bed5-9c4ff58d8435": {
+    "config_version": 2,
+    "run": [
+      {
+        "end": "2024-06-08T13:42:27.535673877+02:00",
+        "outcome": {
+          "Completed": {
+            "stats": {
+              "archive": {
+                "duration": 40.231991,
+                "id": "447bc2e6823d06d89c9a5e9c1be19844c4076c4e1afcc860a58bce19f80a298a",
+                "name": "3c9b0a-77fd319e",
+                "stats": {
+                  "compressed_size": 35223048132,
+                  "deduplicated_size": 95644246,
+                  "nfiles": 843301,
+                  "original_size": 61144422252
+                }
+              }
+            }
+          }
+        },
+        "messages": [],
+        "include": [
+          ""
+        ],
+        "exclude": [
+          {
+            "PathPrefix": "/home/ole/.local/share/American Truck Simulator"
+          },
+          {
+            "PathPrefix": "/home/ole/.local/share/Euro Truck Simulator 2"
+          },
+          {
+            "PathPrefix": "/home/ole/.local/share/StardewValley"
+          },
+          {
+            "PathPrefix": "/home/ole/.local/share/Steam"
+          },
+          {
+            "PathPrefix": "/home/ole/.local/share/aspyr-media"
+          },
+          {
+            "PathPrefix": "/home/ole/Games"
+          },
+          "Caches",
+          "FlatpakApps",
+          "VmsContainers"
+        ]
+      },
+      {
+        "end": "2024-06-07T20:27:19.159297358+02:00",
+        "outcome": {
+          "Completed": {
+            "stats": {
+              "archive": {
+                "duration": 108.812615,
+                "id": "d87ecf99a83578fd400d7606b8c9af5b374914b10ad0b56fabc71edf73d116e5",
+                "name": "3c9b0a-fb42add4",
+                "stats": {
+                  "compressed_size": 35231994993,
+                  "deduplicated_size": 1005719738,
+                  "nfiles": 843194,
+                  "original_size": 61152102106
+                }
+              }
+            }
+          }
+        },
+        "messages": [],
+        "include": [
+          ""
+        ],
+        "exclude": [
+          {
+            "PathPrefix": "/home/ole/.local/share/American Truck Simulator"
+          },
+          {
+            "PathPrefix": "/home/ole/.local/share/Euro Truck Simulator 2"
+          },
+          {
+            "PathPrefix": "/home/ole/.local/share/StardewValley"
+          },
+          {
+            "PathPrefix": "/home/ole/.local/share/Steam"
+          },
+          {
+            "PathPrefix": "/home/ole/.local/share/aspyr-media"
+          },
+          {
+            "PathPrefix": "/home/ole/Games"
+          },
+          "Caches",
+          "FlatpakApps",
+          "VmsContainers"
+        ]
+      },
+      {
+        "end": "2024-06-06T21:18:03.759815712+02:00",
+        "outcome": {
+          "Completed": {
+            "stats": {
+              "archive": {
+                "duration": 43.319208,
+                "id": "f20064cbd59e135aa4036242bde0e7670d10de97cb901242e76983c5bbd97054",
+                "name": "3c9b0a-6a63965f",
+                "stats": {
+                  "compressed_size": 35265124724,
+                  "deduplicated_size": 150744646,
+                  "nfiles": 842796,
+                  "original_size": 61216656740
+                }
+              }
+            }
+          }
+        },
+        "messages": [],
+        "include": [
+          ""
+        ],
+        "exclude": [
+          {
+            "PathPrefix": "/home/ole/.local/share/American Truck Simulator"
+          },
+          {
+            "PathPrefix": "/home/ole/.local/share/Euro Truck Simulator 2"
+          },
+          {
+            "PathPrefix": "/home/ole/.local/share/StardewValley"
+          },
+          {
+            "PathPrefix": "/home/ole/.local/share/Steam"
+          },
+          {
+            "PathPrefix": "/home/ole/.local/share/aspyr-media"
+          },
+          {
+            "PathPrefix": "/home/ole/Games"
+          },
+          "Caches",
+          "FlatpakApps",
+          "VmsContainers"
+        ]
+      },
+      {
+        "end": "2024-06-06T13:45:16.729786259+02:00",
+        "outcome": {
+          "Completed": {
+            "stats": {
+              "archive": {
+                "duration": 36.994866,
+                "id": "c4ba68ad2f80f9a799446512a523951010a5a7119345be8c6c3075b48f5a428e",
+                "name": "3c9b0a-d96e398b",
+                "stats": {
+                  "compressed_size": 35246598694,
+                  "deduplicated_size": 23066960,
+                  "nfiles": 842231,
+                  "original_size": 61169472347
+                }
+              }
+            }
+          }
+        },
+        "messages": [],
+        "include": [
+          ""
+        ],
+        "exclude": [
+          {
+            "PathPrefix": "/home/ole/.local/share/American Truck Simulator"
+          },
+          {
+            "PathPrefix": "/home/ole/.local/share/Euro Truck Simulator 2"
+          },
+          {
+            "PathPrefix": "/home/ole/.local/share/StardewValley"
+          },
+          {
+            "PathPrefix": "/home/ole/.local/share/Steam"
+          },
+          {
+            "PathPrefix": "/home/ole/.local/share/aspyr-media"
+          },
+          {
+            "PathPrefix": "/home/ole/Games"
+          },
+          "Caches",
+          "FlatpakApps",
+          "VmsContainers"
+        ]
+      },
+      {
+        "end": "2024-06-06T13:28:18.831198163+02:00",
+        "outcome": {
+          "Completed": {
+            "stats": {
+              "archive": {
+                "duration": 43.016178,
+                "id": "2dc33696bb2f1d75f465860933ae1ddeb71469902e25f2099b8a7fcfcb7d7b92",
+                "name": "3c9b0a-ecbe9eb4",
+                "stats": {
+                  "compressed_size": 35250052616,
+                  "deduplicated_size": 716877410,
+                  "nfiles": 842043,
+                  "original_size": 61182408888
+                }
+              }
+            }
+          }
+        },
+        "messages": [],
+        "include": [
+          ""
+        ],
+        "exclude": [
+          {
+            "PathPrefix": "/home/ole/.local/share/American Truck Simulator"
+          },
+          {
+            "PathPrefix": "/home/ole/.local/share/Euro Truck Simulator 2"
+          },
+          {
+            "PathPrefix": "/home/ole/.local/share/StardewValley"
+          },
+          {
+            "PathPrefix": "/home/ole/.local/share/Steam"
+          },
+          {
+            "PathPrefix": "/home/ole/.local/share/aspyr-media"
+          },
+          {
+            "PathPrefix": "/home/ole/Games"
+          },
+          "Caches",
+          "FlatpakApps",
+          "VmsContainers"
+        ]
+      },
+      {
+        "end": "2024-06-06T13:27:05.254504902+02:00",
+        "outcome": {
+          "Aborted": "User"
+        },
+        "messages": [
+          {
+            "ParsedErr": {
+              "levelname": "ERROR",
+              "name": "borg.archiver",
+              "message": "Keyboard interrupt",
+              "msgid": "Undefined"
+            }
+          }
+        ],
+        "include": [
+          ""
+        ],
+        "exclude": [
+          {
+            "PathPrefix": "/home/ole/Games"
+          },
+          "Caches"
+        ]
+      },
+      {
+        "end": "2024-06-04T13:44:53.700201906+02:00",
+        "outcome": {
+          "Completed": {
+            "stats": {
+              "archive": {
+                "duration": 965.120838,
+                "id": "a432e79edbb10fa425a78b57fdf7bdcbabb4c4829b7ea1a3a6b98eca9e61adf7",
+                "name": "3c9b0a-706b650b",
+                "stats": {
+                  "compressed_size": 140904822033,
+                  "deduplicated_size": 57610866552,
+                  "nfiles": 930945,
+                  "original_size": 180950190145
+                }
+              }
+            }
+          }
+        },
+        "messages": [],
+        "include": [
+          ""
+        ],
+        "exclude": [
+          {
+            "PathPrefix": "/home/ole/Games"
+          },
+          "Caches"
+        ]
+      },
+      {
+        "end": "2024-06-01T11:58:58.477366606+02:00",
+        "outcome": {
+          "Completed": {
+            "stats": {
+              "archive": {
+                "duration": 149.252101,
+                "id": "dda310f108a7ef0b8dc0050dde2f71ff0111653c57c1ca25fb2da3cdeea43c00",
+                "name": "3c9b0a-4391b862",
+                "stats": {
+                  "compressed_size": 121244709045,
+                  "deduplicated_size": 1263776628,
+                  "nfiles": 930710,
+                  "original_size": 180550573744
+                }
+              }
+            }
+          }
+        },
+        "messages": [],
+        "include": [
+          ""
+        ],
+        "exclude": [
+          {
+            "PathPrefix": "/home/ole/Games"
+          },
+          "Caches"
+        ]
+      },
+      {
+        "end": "2024-05-31T09:49:38.303667983+02:00",
+        "outcome": {
+          "Completed": {
+            "stats": {
+              "archive": {
+                "duration": 230.446515,
+                "id": "6995c6a1eeb5d7994b58b4e50a57f991ddc15ab4a32db85df9fe79bfe11872fb",
+                "name": "3c9b0a-e7376204",
+                "stats": {
+                  "compressed_size": 120953910858,
+                  "deduplicated_size": 6119580189,
+                  "nfiles": 928821,
+                  "original_size": 180101572136
+                }
+              }
+            }
+          }
+        },
+        "messages": [],
+        "include": [
+          ""
+        ],
+        "exclude": [
+          {
+            "PathPrefix": "/home/ole/Games"
+          },
+          "Caches"
+        ]
+      },
+      {
+        "end": "2024-05-29T19:07:44.236324483+02:00",
+        "outcome": {
+          "Completed": {
+            "stats": {
+              "archive": {
+                "duration": 41.442293,
+                "id": "c20bbd5c86827ebe8da46b477a8bf7e056650dbd317cced9677727fc59d01cfa",
+                "name": "3c9b0a-d96ad3c1",
+                "stats": {
+                  "compressed_size": 116417625506,
+                  "deduplicated_size": 119857115,
+                  "nfiles": 898660,
+                  "original_size": 173192086377
+                }
+              }
+            }
+          }
+        },
+        "messages": [],
+        "include": [
+          ""
+        ],
+        "exclude": [
+          {
+            "PathPrefix": "/home/ole/Games"
+          },
+          "Caches"
+        ]
+      },
+      {
+        "end": "2024-05-28T20:13:24.350905645+02:00",
+        "outcome": {
+          "Completed": {
+            "stats": {
+              "archive": {
+                "duration": 298.287025,
+                "id": "390109b42d49ece9e35fd63eb69f791da4d4655bfb192c6b64f99f04331c1f3f",
+                "name": "3c9b0a-7adf96d8",
+                "stats": {
+                  "compressed_size": 116405960555,
+                  "deduplicated_size": 11310831614,
+                  "nfiles": 897991,
+                  "original_size": 173188274809
+                }
+              }
+            }
+          }
+        },
+        "messages": [],
+        "include": [
+          ""
+        ],
+        "exclude": [
+          {
+            "PathPrefix": "/home/ole/Games"
+          },
+          "Caches"
+        ]
+      },
+      {
+        "end": "2024-05-27T22:11:42.615911742+02:00",
+        "outcome": {
+          "Completed": {
+            "stats": {
+              "archive": {
+                "duration": 48.488764,
+                "id": "b207d1354e91fb514fefc2d379afb8b3905604eacbc1ba3be89286eebdd532bf",
+                "name": "3c9b0a-9aa769e9",
+                "stats": {
+                  "compressed_size": 100601053130,
+                  "deduplicated_size": 1016662436,
+                  "nfiles": 849913,
+                  "original_size": 158820025226
+                }
+              }
+            }
+          }
+        },
+        "messages": [
+          {
+            "ParsedErr": {
+              "levelname": "WARNING",
+              "name": "borg.archiver",
+              "message": "/home/ole/.local/share/Steam/steamapps/downloading/270880/base.scs: file changed while we backed it up",
+              "msgid": "Undefined"
+            }
+          }
+        ],
+        "include": [
+          ""
+        ],
+        "exclude": [
+          {
+            "PathPrefix": "/home/ole/Games"
+          },
+          "Caches"
+        ]
+      },
+      {
+        "end": "2024-05-27T21:54:31.043221983+02:00",
+        "outcome": {
+          "Completed": {
+            "stats": {
+              "archive": {
+                "duration": 618.781852,
+                "id": "94c16c727d1ab67f9118afa7fcc451252b5cdde5246fa67f95efb6f161d56db8",
+                "name": "3c9b0a-1a86c090",
+                "stats": {
+                  "compressed_size": 100164310905,
+                  "deduplicated_size": 32546737028,
+                  "nfiles": 849895,
+                  "original_size": 158552815923
+                }
+              }
+            }
+          }
+        },
+        "messages": [
+          {
+            "ParsedErr": {
+              "levelname": "WARNING",
+              "name": "borg.archiver",
+              "message": "/home/ole/.local/share/Steam/steamapps/downloading/270880/base.scs: file changed while we backed it up",
+              "msgid": "Undefined"
+            }
+          }
+        ],
+        "include": [
+          ""
+        ],
+        "exclude": [
+          {
+            "PathPrefix": "/home/ole/Games"
+          },
+          "Caches"
+        ]
+      },
+      {
+        "end": "2024-05-22T15:42:41.983492297+02:00",
+        "outcome": {
+          "Completed": {
+            "stats": {
+              "archive": {
+                "duration": 182.726329,
+                "id": "c663976f29ce843715bf84accedcf7f2800139fa70e04ed3c24d1566b47bd4bb",
+                "name": "3c9b0a-219b8431",
+                "stats": {
+                  "compressed_size": 127957638213,
+                  "deduplicated_size": 3607213780,
+                  "nfiles": 842088,
+                  "original_size": 184245327390
+                }
+              }
+            }
+          }
+        },
+        "messages": [],
+        "include": [
+          ""
+        ],
+        "exclude": [
+          {
+            "PathPrefix": "/home/ole/Games"
+          },
+          "Caches"
+        ]
+      },
+      {
+        "end": "2024-05-19T19:44:27.418021494+02:00",
+        "outcome": {
+          "Completed": {
+            "stats": {
+              "archive": {
+                "duration": 112.890099,
+                "id": "f064d603e551091cabc23a9c76c31d9cf5d7511707f26135367dda9943a83d23",
+                "name": "3c9b0a-98e6e8ce",
+                "stats": {
+                  "compressed_size": 125703233836,
+                  "deduplicated_size": 1838333941,
+                  "nfiles": 877679,
+                  "original_size": 182283610718
+                }
+              }
+            }
+          }
+        },
+        "messages": [],
+        "include": [
+          ""
+        ],
+        "exclude": [
+          {
+            "PathPrefix": "/home/ole/Games"
+          },
+          "Caches"
+        ]
+      },
+      {
+        "end": "2024-05-19T19:42:17.813221975+02:00",
+        "outcome": {
+          "Aborted": "User"
+        },
+        "messages": [
+          {
+            "ParsedErr": {
+              "levelname": "ERROR",
+              "name": "borg.archiver",
+              "message": "Keyboard interrupt",
+              "msgid": "Undefined"
+            }
+          }
+        ],
+        "include": [
+          ""
+        ],
+        "exclude": [
+          "Caches"
+        ]
+      },
+      {
+        "end": "2024-05-14T19:00:07.011446176+02:00",
+        "outcome": {
+          "Completed": {
+            "stats": {
+              "archive": {
+                "duration": 138.450099,
+                "id": "d2f332f85e3328fe6a9cdf22714dbd25aab572b018268c34eaa7084df06e5547",
+                "name": "3c9b0a-d362c9b8",
+                "stats": {
+                  "compressed_size": 285091575878,
+                  "deduplicated_size": 1311303355,
+                  "nfiles": 910970,
+                  "original_size": 388582423481
+                }
+              }
+            }
+          }
+        },
+        "messages": [],
+        "include": [
+          ""
+        ],
+        "exclude": [
+          "Caches"
+        ]
+      },
+      {
+        "end": "2024-05-13T15:07:59.922817658+02:00",
+        "outcome": {
+          "Completed": {
+            "stats": {
+              "archive": {
+                "duration": 3973.04442,
+                "id": "f1b75a7b3d7699edfee9db056f03c8d9954647bc4fe8771554dd08cc7bebd67f",
+                "name": "3c9b0a-2c353fb5",
+                "stats": {
+                  "compressed_size": 284411102952,
+                  "deduplicated_size": 193685072270,
+                  "nfiles": 909361,
+                  "original_size": 388522965605
+                }
+              }
+            }
+          }
+        },
+        "messages": [],
+        "include": [
+          ""
+        ],
+        "exclude": [
+          "Caches"
+        ]
+      },
+      {
+        "end": "2024-04-19T17:33:07.253038095+02:00",
+        "outcome": {
+          "Completed": {
+            "stats": {
+              "archive": {
+                "duration": 34.788155,
+                "id": "24f04e9663ec0c9b7f4d6f989575ccbd5ba71e5e7e136002c9198ba7a1013f9b",
+                "name": "3c9b0a-07fd74dc",
+                "stats": {
+                  "compressed_size": 62880429098,
+                  "deduplicated_size": 99253072,
+                  "nfiles": 838991,
+                  "original_size": 89755017669
+                }
+              }
+            }
+          }
+        },
+        "messages": [
+          {
+            "ParsedErr": {
+              "levelname": "ERROR",
+              "name": "borg.archiver",
+              "message": "Failed to create/acquire the lock /run/media/ole/backup/backup-endeavour-ole/lock.exclusive (timeout).",
+              "msgid": "LockTimeout"
+            }
+          },
+          {
+            "ParsedErr": {
+              "levelname": "WARNING",
+              "name": "borg.archiver",
+              "message": "/home/ole/home: dir_open: [Errno 13] Permission denied: 'home'",
+              "msgid": "Undefined"
+            }
+          }
+        ],
+        "include": [
+          ""
+        ],
+        "exclude": [
+          "Caches"
+        ]
+      },
+      {
+        "end": "2024-04-19T09:50:56.156844736+02:00",
+        "outcome": {
+          "Completed": {
+            "stats": {
+              "archive": {
+                "duration": 28.824654,
+                "id": "97d0d7f3d12f297855960d3bc8b250d725ebb7053b615f27ac7972c5ed860650",
+                "name": "3c9b0a-e81648d5",
+                "stats": {
+                  "compressed_size": 70985717243,
+                  "deduplicated_size": 19368855,
+                  "nfiles": 837760,
+                  "original_size": 97981142206
+                }
+              }
+            }
+          }
+        },
+        "messages": [
+          {
+            "ParsedErr": {
+              "levelname": "WARNING",
+              "name": "borg.archiver",
+              "message": "/home/ole/home: dir_open: [Errno 13] Permission denied: 'home'",
+              "msgid": "Undefined"
+            }
+          }
+        ],
+        "include": [
+          ""
+        ],
+        "exclude": [
+          "Caches"
+        ]
+      },
+      {
+        "end": "2024-04-18T22:29:55.858666037+02:00",
+        "outcome": {
+          "Completed": {
+            "stats": {
+              "archive": {
+                "duration": 56.41906,
+                "id": "cdb1fbde2a59fd1ec325ef2dc7fd2fbb971404820898e53de3c82f62c09bf940",
+                "name": "3c9b0a-e7ffed5f",
+                "stats": {
+                  "compressed_size": 70977557013,
+                  "deduplicated_size": 77751773,
+                  "nfiles": 837669,
+                  "original_size": 97971693600
+                }
+              }
+            }
+          }
+        },
+        "messages": [
+          {
+            "ParsedErr": {
+              "levelname": "WARNING",
+              "name": "borg.archiver",
+              "message": "/home/ole/home: dir_open: [Errno 13] Permission denied: 'home'",
+              "msgid": "Undefined"
+            }
+          }
+        ],
+        "include": [
+          ""
+        ],
+        "exclude": [
+          "Caches"
+        ]
+      },
+      {
+        "end": "2024-04-18T19:03:04.385169129+02:00",
+        "outcome": {
+          "Aborted": "LeftRunning"
+        },
+        "messages": [],
+        "include": [],
+        "exclude": []
+      },
+      {
+        "end": "2024-04-18T19:02:53.974823849+02:00",
+        "outcome": {
+          "Aborted": {
+            "UserShellCommand": "Der in den Einstellungen konfigurierte Befehl vor der Sicherung hat einen Fehlercode zurückgegeben: 1\n\nusage: sudo -h | -K | -k | -V\nusage: sudo -v [-ABkNnS] [-g group] [-h host] [-p prompt] [-u user]\nusage: sudo -l [-ABkNnS] [-g group] [-h host] [-p prompt] [-U user]\n            [-u user] [command [arg ...]]\nusage: sudo [-ABbEHkNnPS] [-C num] [-D directory]\n            [-g group] [-h host] [-p prompt] [-R directory] [-T timeout]\n            [-u user] [VAR=value] [-i | -s] [command [arg ...]]\nusage: sudo -e [-ABkNnS] [-C num] [-D directory]\n            [-g group] [-h host] [-p prompt] [-R directory] [-T timeout]\n            [-u user] file ..."
+          }
+        },
+        "messages": [],
+        "include": [
+          ""
+        ],
+        "exclude": [
+          "Caches"
+        ]
+      },
+      {
+        "end": "2024-04-18T19:01:54.674535298+02:00",
+        "outcome": {
+          "Completed": {
+            "stats": {
+              "archive": {
+                "duration": 240.071279,
+                "id": "9649e39eb6e495b9f853d32f5152640d7acb13e06bfdf7875894fd2898f5b778",
+                "name": "3c9b0a-eacdffe7",
+                "stats": {
+                  "compressed_size": 68426838913,
+                  "deduplicated_size": 12457905,
+                  "nfiles": 749396,
+                  "original_size": 94184736821
+                }
+              }
+            }
+          }
+        },
+        "messages": [
+          {
+            "ParsedErr": {
+              "levelname": "WARNING",
+              "name": "borg.archiver",
+              "message": "/home/ole/home: dir_open: [Errno 13] Permission denied: 'home'",
+              "msgid": "Undefined"
+            }
+          }
+        ],
+        "include": [
+          ""
+        ],
+        "exclude": [
+          "Caches"
+        ]
+      }
+    ],
+    "running": null,
+    "last_completed": {
+      "end": "2024-06-08T13:42:27.535673877+02:00",
+      "outcome": {
+        "Completed": {
+          "stats": {
+            "archive": {
+              "duration": 40.231991,
+              "id": "447bc2e6823d06d89c9a5e9c1be19844c4076c4e1afcc860a58bce19f80a298a",
+              "name": "3c9b0a-77fd319e",
+              "stats": {
+                "compressed_size": 35223048132,
+                "deduplicated_size": 95644246,
+                "nfiles": 843301,
+                "original_size": 61144422252
+              }
+            }
+          }
+        }
+      },
+      "messages": [],
+      "include": [
+        ""
+      ],
+      "exclude": [
+        {
+          "PathPrefix": "/home/ole/.local/share/American Truck Simulator"
+        },
+        {
+          "PathPrefix": "/home/ole/.local/share/Euro Truck Simulator 2"
+        },
+        {
+          "PathPrefix": "/home/ole/.local/share/StardewValley"
+        },
+        {
+          "PathPrefix": "/home/ole/.local/share/Steam"
+        },
+        {
+          "PathPrefix": "/home/ole/.local/share/aspyr-media"
+        },
+        {
+          "PathPrefix": "/home/ole/Games"
+        },
+        "Caches",
+        "FlatpakApps",
+        "VmsContainers"
+      ]
+    },
+    "last_check": {
+      "end": "2024-04-19T14:13:54.038710567+02:00",
+      "outcome": "Success"
+    },
+    "suggested_exclude": {
+      "PermissionDenied": []
+    }
+  }
+}

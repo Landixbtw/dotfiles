@@ -5,9 +5,16 @@ All my dotfiles managed with stow.
 ## DEPENDENCIES
 Download git, stow all the nerd-fonts, some stuff for ghostty, nvim and the github-cli to authenticate your github account for private repos.
 
+***You need to setup yay aswell***
 ```sh
-sudo pacman -S git stow nerd-fonts zig gtk4 libadwaita fzf github-cli
+sudo pacman -S git stow nerd-fonts zig gtk4 libadwaita fzf github-cli nodejs 
 ```
+
+
+To get spicetify up and running, follow the installtion steps [here](https://spicetify.app/docs/advanced-usage/installation/).
+***DO NOT INSTALL VIA FLATPAK OR SNAP EITHER USE PREBUILT BINARY OR AUR PACKAGE***
+
+
 Oldschool pc fonts provides the [ToshibaSat9x14](https://int10h.org/oldschool-pc-fonts/fontlist/?2#toshiba) Font. And a lot of other old school fonts.
 ```sh
 yay -S oldschool-pc-fonts
@@ -52,3 +59,7 @@ In the root of the dotfiles directory do.
 stow .
 ```
 And let stow do its thing.
+
+
+To install all the packages I use execute the <code>./packages.sh</code>, script.
+Which should get all the packages.

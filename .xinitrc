@@ -41,7 +41,6 @@ fi
 xrandr --output DP-4 --mode 1920x1080 --rate 164.92  --pos 0x0 --primary
 xrandr --output DP-2 --mode 1920x1080 --rate 164.92 --pos 1920x0 
 
-twm &
 nitrogen --restore &
 exec awesome
 # exec dwm

@@ -29,15 +29,21 @@ export TARGET=i686-elf
 export PATH="$PREFIX/bin:$PATH"
 export PATH="$HOME/opt/cross/bin:$PATH"
 
-# Path to your oh-my-zsh installation.
+export PATH=/usr/local/bin:$PATH
+
+
+#Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
+
+
+export PATH=$PATH:/home/ole/.spicetify
 
 
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib
 
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 # ZSH_THEME="powerlevel10k/powerlevel10k"
-# ZSH_THEME="powerlevel10k/powerlevel10k"
+ZSH_THEME="robbyrussell"
 
 zstyle ':omz:update' mode reminder  # just remind me to update when it's time
 
@@ -88,5 +94,6 @@ alias zj="zellij --layout ~/.config/zellij/layout.kdl"
 # eval "$(starship init zsh)"
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
-[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
-source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
+# [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+# source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
+

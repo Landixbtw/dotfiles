@@ -1,0 +1,75 @@
+[
+  {
+    "config_version": 2,
+    "id": "fcf3d1e8-c855-4532-bed5-9c4ff58d8435",
+    "archive_prefix": "3c9b0a-",
+    "repo_id": "73ec309e2659c11cb39d8d60148fac099a2129426b2bef5a128d692c882c7961",
+    "repo": {
+      "type": "Local",
+      "path": "backup-endeavour-ole",
+      "mount_path": "/run/media/ole/backup",
+      "uri": "file:///run/media/ole/backup/backup-endeavour-ole",
+      "drive_name": "WDC WD20SDRW-11VUUS0",
+      "mount_name": "backup",
+      "volume_uuid": "7ce4ed0b-2d22-4b2a-b7b6-c89159cf48bc",
+      "volume_uuid_identifier": "7ce4ed0b-2d22-4b2a-b7b6-c89159cf48bc",
+      "removable": true,
+      "icon": ". GThemedIcon drive-harddisk-usb drive-harddisk drive drive-harddisk-usb-symbolic drive-harddisk-symbolic drive-symbolic",
+      "icon_symbolic": ". GThemedIcon drive-harddisk-usb-symbolic drive-harddisk-symbolic drive-symbolic drive-harddisk-usb drive-harddisk drive",
+      "settings": {
+        "command_line_args": []
+      }
+    },
+    "encrypted": false,
+    "encryption_mode": "repokey",
+    "include": [
+      ""
+    ],
+    "exclude": [
+      {
+        "PathPrefix": ".local/share/American Truck Simulator"
+      },
+      {
+        "PathPrefix": ".local/share/Euro Truck Simulator 2"
+      },
+      {
+        "PathPrefix": ".local/share/StardewValley"
+      },
+      {
+        "PathPrefix": ".local/share/Steam"
+      },
+      {
+        "PathPrefix": ".local/share/aspyr-media"
+      },
+      {
+        "PathPrefix": "Games"
+      },
+      "Caches",
+      "FlatpakApps",
+      "VmsContainers"
+    ],
+    "schedule": {
+      "enabled": false,
+      "settings": {
+        "run_on_battery": false
+      },
+      "frequency": {
+        "Daily": {
+          "preferred_time": "17:00:00"
+        }
+      }
+    },
+    "prune": {
+      "enabled": true,
+      "keep": {
+        "hourly": 48,
+        "daily": 14,
+        "weekly": 4,
+        "monthly": 12,
+        "yearly": 10
+      }
+    },
+    "title": "backup",
+    "user_scripts": {}
+  }
+]
