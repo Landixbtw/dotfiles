@@ -3,6 +3,100 @@
     "config_version": 2,
     "run": [
       {
+        "end": "2024-06-10T18:18:03.789619534+02:00",
+        "outcome": {
+          "Completed": {
+            "stats": {
+              "archive": {
+                "duration": 42.160308,
+                "id": "66e818a345496d2eb3804aacb6e2f29b66ed8c1fa7cd6eb4ac202817678f2a02",
+                "name": "3c9b0a-10f6ec75",
+                "stats": {
+                  "compressed_size": 35874011869,
+                  "deduplicated_size": 59128108,
+                  "nfiles": 848605,
+                  "original_size": 62096511183
+                }
+              }
+            }
+          }
+        },
+        "messages": [],
+        "include": [
+          ""
+        ],
+        "exclude": [
+          {
+            "PathPrefix": "/home/ole/.local/share/American Truck Simulator"
+          },
+          {
+            "PathPrefix": "/home/ole/.local/share/Euro Truck Simulator 2"
+          },
+          {
+            "PathPrefix": "/home/ole/.local/share/StardewValley"
+          },
+          {
+            "PathPrefix": "/home/ole/.local/share/Steam"
+          },
+          {
+            "PathPrefix": "/home/ole/.local/share/aspyr-media"
+          },
+          {
+            "PathPrefix": "/home/ole/Games"
+          },
+          "Caches",
+          "FlatpakApps",
+          "VmsContainers"
+        ]
+      },
+      {
+        "end": "2024-06-09T12:56:11.569227018+02:00",
+        "outcome": {
+          "Completed": {
+            "stats": {
+              "archive": {
+                "duration": 44.32051,
+                "id": "7166a2249bffac31464083021488075ec52ae9472370447e9c75222790771a46",
+                "name": "3c9b0a-af67e5e4",
+                "stats": {
+                  "compressed_size": 35869924200,
+                  "deduplicated_size": 311708609,
+                  "nfiles": 848555,
+                  "original_size": 62142714881
+                }
+              }
+            }
+          }
+        },
+        "messages": [],
+        "include": [
+          ""
+        ],
+        "exclude": [
+          {
+            "PathPrefix": "/home/ole/.local/share/American Truck Simulator"
+          },
+          {
+            "PathPrefix": "/home/ole/.local/share/Euro Truck Simulator 2"
+          },
+          {
+            "PathPrefix": "/home/ole/.local/share/StardewValley"
+          },
+          {
+            "PathPrefix": "/home/ole/.local/share/Steam"
+          },
+          {
+            "PathPrefix": "/home/ole/.local/share/aspyr-media"
+          },
+          {
+            "PathPrefix": "/home/ole/Games"
+          },
+          "Caches",
+          "FlatpakApps",
+          "VmsContainers"
+        ]
+      },
+      {
         "end": "2024-06-08T13:42:27.535673877+02:00",
         "outcome": {
           "Completed": {
@@ -805,19 +899,19 @@
     ],
     "running": null,
     "last_completed": {
-      "end": "2024-06-08T13:42:27.535673877+02:00",
+      "end": "2024-06-10T18:18:03.789619534+02:00",
       "outcome": {
         "Completed": {
           "stats": {
             "archive": {
-              "duration": 40.231991,
-              "id": "447bc2e6823d06d89c9a5e9c1be19844c4076c4e1afcc860a58bce19f80a298a",
-              "name": "3c9b0a-77fd319e",
+              "duration": 42.160308,
+              "id": "66e818a345496d2eb3804aacb6e2f29b66ed8c1fa7cd6eb4ac202817678f2a02",
+              "name": "3c9b0a-10f6ec75",
               "stats": {
-                "compressed_size": 35223048132,
-                "deduplicated_size": 95644246,
-                "nfiles": 843301,
-                "original_size": 61144422252
+                "compressed_size": 35874011869,
+                "deduplicated_size": 59128108,
+                "nfiles": 848605,
+                "original_size": 62096511183
               }
             }
           }
