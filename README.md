@@ -31,7 +31,7 @@ And this
 <code>https://github.com/rendello/templeos_font/blob/master/templeos_font.ttf</code>  
 Move this into the right directory, and update the font cache.
 ```sh
-sudo cp templeos_font.ttf ~/usr/share/fonts/TTF
+sudo cp templeos_font.ttf /usr/share/fonts/TTF
 
 sudo fc-cache -f -v
 ```
